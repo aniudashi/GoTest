@@ -4,6 +4,11 @@ package main
 //引入
 import (
 	"fmt"
+	/*
+		. "goTest/NumberOnce"
+		. "goTest/Palindrome"
+		. "goTest/ValidBrackets"
+	*/
 	"os"
 )
 
